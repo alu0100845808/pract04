@@ -1,6 +1,43 @@
 ¿Que es rvm (Ruby Version Manager )?
 Es un comando por el cual podemos controlar la version de ruby,saber que version usamos descargar la version mas reciente 
 entre otros.
+
+¿Cu´al es el resultado de la siguiente operaci´on?
+2.2.2 :001 > puts "Hello world"
+Hello world
+=> nil
+2.2.2 :002 >
+
  ¿Cu´ales son las diferencias entre la ejecuci´on del programa "Hola Mundo" con el int´erprete
 de Ruby (ruby helloWorld.rb) y el int´erprete interactivo del ejercicio anterior?
 La diferencia radica en que pone una linea de ruby de mas y en el numero de la sentencia aparte de que con el fichero al activarlo sale automaticamnete sin pulsar ctr+d
+
+¿Cu´al es el resultado de cada una de las siguientes operaciones?
+[1] pry(main)> puts x
+10
+=> nil
+[2] pry(main)> def hello
+[2] pry(main)* puts "Hello world"
+[2] pry(main)* end
+=> :hello
+[3] pry(main)> hello
+Hello world
+=> nil
+[4] pry(main)> byebye
+bye bye world!!!
+=> nil
+[5] pry(main)> x = "changed"
+=> "changed"
+[6] pry(main)> exit
+program resumes here. Value of x is: changed
+
+
+
+
+ ¿Cuales son las diferencias entre la ejecuci´on del programa "Hola Mundo" con el int´erprete
+interactivo y con pry? Escriba la respuesta en fichero creado en el ejercicio 11.
+
+La difenrencia radica en que puedes ver lo que contiene cada unos de los objetos puedes crear algunos nuevos en timepo de ejecion y puedes ver los cambios que realiza
+
+
+
