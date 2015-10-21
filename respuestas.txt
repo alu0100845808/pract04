@@ -1,4 +1,6 @@
 ¿Que es rvm (Ruby Version Manager )?
 Es un comando por el cual podemos controlar la version de ruby,saber que version usamos descargar la version mas reciente 
 entre otros.
-
+ ¿Cu´ales son las diferencias entre la ejecuci´on del programa "Hola Mundo" con el int´erprete
+de Ruby (ruby helloWorld.rb) y el int´erprete interactivo del ejercicio anterior?
+La diferencia radica en que pone una linea de ruby de mas y en el numero de la sentencia aparte de que con el fichero al activarlo sale automaticamnete sin pulsar ctr+d
