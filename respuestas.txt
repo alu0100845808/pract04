@@ -40,4 +40,11 @@ interactivo y con pry? Escriba la respuesta en fichero creado en el ejercicio 11
 La difenrencia radica en que puedes ver lo que contiene cada unos de los objetos puedes crear algunos nuevos en timepo de ejecion y puedes ver los cambios que realiza
 
 
+¿Qu´e diferencia hay entre "\t\n" y ’\t\n’?
+’\t\n’ muestra "\\t\\n"
+
+
+
+
+
 
